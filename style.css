@@ -1,0 +1,68 @@
+body{
+    background-image: url(images/food.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1
+{
+    color: rgb(38, 26, 211);
+    text-align: center;
+    font-size: 100px;
+}
+p{
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+header
+{
+    display: flex;
+    background-color: rgba(71, 71, 69, 0.349);
+    height: auto;
+    text-align: center;
+    
+}
+.restaurent-logo
+{
+    width: 100px;
+    height: 50px;
+    padding-right: 300px;
+
+}
+nav{
+background-color: rgba(95, 21, 21, 0.404);
+    height: 40px;
+    text-align: center;
+    padding-top: 20px;
+  
+}
+a
+{
+    color: rgb(138, 39, 39);
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:larger;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+main {
+    background-color: rgba(127, 255, 212, 0.644);
+    height: 200px;
+}
+main h2{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blueviolet;
+}
+main p{
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+section
+{
+    text-align: center;
+}
+footer {
+    background-color: rgba(151, 19, 228, 0.603);
+    height: 80px;
+}
